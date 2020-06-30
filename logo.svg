@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="359px" height="254px" viewBox="0 0 359 254" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(42.000000, 22.000000)">
+            <text id="Pen&amp;" font-family="MuseoModerno-SemiBold_Thin, MuseoModerno" font-size="100" font-weight="300" fill="#000000">
+                <tspan x="0" y="115">Pen</tspan>
+                <tspan x="184" y="115" font-family="MuseoModerno-SemiBold_Bold, MuseoModerno" font-weight="bold">&amp;</tspan>
+            </text>
+            <text id="Paper.js" font-family="Menlo-Regular, Menlo" font-size="30" font-weight="normal" fill="#009DEC">
+                <tspan x="5" y="160">Paper.js</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
