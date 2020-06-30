@@ -5,4 +5,4 @@ A smol game engine for Paper.js.
 *Coming soon.*
 
 # Rough Architecture
-![](x)
+![](./arch.png)
