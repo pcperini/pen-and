@@ -1,2 +1,3 @@
-# pen-and-paper
+![](./logo.svg)
+
 A smol game engine for Paper.js. Coming soon.
